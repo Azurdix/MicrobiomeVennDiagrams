@@ -48,7 +48,7 @@ Required columns:
 Path:
 `06_Exports/deseq2_input/feature-table.tsv`
 
-This should be a QIIME2-exported feature table containing ASV counts per sample.
+This should be a QIIME2-exported feature table containing ASV counts per sample (mitochondria + chloroplasts filtered out).
 
 ### 3. Taxonomy file
 Path:
