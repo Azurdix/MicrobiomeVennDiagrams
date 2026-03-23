@@ -176,10 +176,10 @@ patchwork
 
 This script is suitable for questions such as:
 
-Which bacterial taxa are shared between environment, silk and eggs?
-Which taxa are unique to the environment, silk and eggs?
-Which taxa persist across the full ENV → SILK → EGGS transition?
-Are the same core taxa present in both spider species?
+- Which bacterial taxa are shared between environment, silk and eggs?
+- Which taxa are unique to the environment, silk and eggs?
+- Which taxa persist across the full ENV → SILK → EGGS transition?
+- Are the same core taxa present in both spider species?
 
 
 # IMPORTANT:
