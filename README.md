@@ -200,4 +200,3 @@ The resulting diagrams are intended for descriptive and comparative analysis of 
 
 Author
 Mateusz Glenszczyk
-Email: mateusz.glenszczyk@gmail.com
